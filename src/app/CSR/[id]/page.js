@@ -45,6 +45,9 @@ export default function UserDetials() {
                 <p><strong>Lastname:</strong> {user.lastName}</p>
                 <p><strong>Age:</strong> {user.age}</p>
                 <p><strong>Email:</strong> {user.email}</p>
+                <p><strong>Blood Group: </strong> {user.bloodGroup}</p>
+                <p><strong>Gender: </strong> {user.gender}</p>
+                <p><strong>Birth Date: </strong> {user.birthDate}</p>
             </div>
 
             <Link href="/CSR">
