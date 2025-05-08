@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-export default async function ({params}) {
+export default async function dyUsers({params}) {
     const id = params.id;
     const response = await fetch(`https://dummyjson.com/users/${id}`);
     const userData = await response.json();
