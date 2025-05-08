@@ -12,14 +12,14 @@ export default function () {
             CSR : Client Side Rendering  <Link href="/CSR" className="bg-black text-blue-500 border-1 text-[13px] border-[#373738] px-3 py-1 rounded transition">Demo</Link>
           </li>
           <li>
-            SSR : Server Side Rendering <Link href="/ssr" className="bg-black text-blue-500 border-1 text-[13px] border-[#373738] px-3 py-1 rounded transition">Demo</Link>
+            SSR : Server Side Rendering <Link href="/SSR" className="bg-black text-blue-500 border-1 text-[13px] border-[#373738] px-3 py-1 rounded transition">Demo</Link>
           </li>
           <li>
-            SSG : Static Site Generation <Link href="/ssg" className="bg-black text-blue-500 border-1 text-[13px] border-[#373738] px-3 py-1 rounded transition">Demo</Link>
+            SSG : Static Site Generation <Link href="/" className="bg-black text-blue-500 border-1 text-[13px] border-[#373738] px-3 py-1 rounded transition">Demo</Link>
           </li>
           
           <li>
-            Form handling : <Link href="/form" className="bg-black text-blue-500 border-1 text-[13px] border-[#373738] px-3 py-1 rounded transition">Demo</Link>
+            Form handling : <Link href="/" className="bg-black text-blue-500 border-1 text-[13px] border-[#373738] px-3 py-1 rounded transition">Demo</Link>
           </li>
         </ul>
       </div>
