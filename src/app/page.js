@@ -2,7 +2,7 @@ import "./globals.css";
 import Link from 'next/link'
 
 
-export default function () {
+export default function Home() {
   return (
     <div className="flex align-center justify-center my-44">
       <div className="border-1 border-[#373738] max-w-xl p-6 rounded-2xl">
